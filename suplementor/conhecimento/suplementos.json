@@ -1,0 +1,94 @@
+[
+  {
+    "pergunta": "O que é Creatina?",
+    "resposta": "A creatina é um composto de aminoácidos armazenado nos músculos que fornece energia rápida durante exercícios de alta intensidade, auxiliando no ganho de força e massa muscular."
+  },
+  {
+    "pergunta": "Qual a diferença entre Whey Protein Concentrado, Isolado e Hidrolisado?",
+    "resposta": "O Concentrado passa por menos filtragem e contém carboidratos e gorduras. O Isolado é mais puro, com alta concentração de proteínas e quase zero lactose. O Hidrolisado é pré-digerido, proporcionando a absorção mais rápida de todos."
+  },
+  {
+    "pergunta": "Quando devo tomar Whey Protein?",
+    "resposta": "O Whey Protein pode ser tomado a qualquer momento do dia para bater a meta de proteínas, mas é amplamente utilizado no pós-treino devido à sua rápida absorção para a recuperação muscular."
+  },
+  {
+    "pergunta": "Para que serve o BCAA?",
+    "resposta": "BCAA (Aminoácidos de Cadeia Ramificada) serve para reduzir a fadiga durante o treino, prevenir o catabolismo (perda de massa magra) e auxiliar na recuperação muscular."
+  },
+  {
+    "pergunta": "O que é um suplemento pré-treino?",
+    "resposta": "É um suplemento composto por ingredientes estimulantes (como cafeína e taurina) e vasodilatadores (como arginina e beta-alanina) projetado para aumentar a energia, o foco e a resistência durante o exercício."
+  },
+  {
+    "pergunta": "Devo tomar creatina nos dias em que não treino?",
+    "resposta": "Sim. A creatina tem efeito crônico e funciona por acúmulo no organismo, portanto, deve ser consumida todos os dias, independentemente de haver treino ou não."
+  },
+  {
+    "pergunta": "O que é hipertrofia muscular?",
+    "resposta": "Hipertrofia é o aumento do tamanho e volume das fibras musculares, geralmente alcançado através de treinamento de força associado a uma dieta com superávit calórico e ingestão adequada de proteínas."
+  },
+  {
+    "pergunta": "Para que serve a Beta-Alanina?",
+    "resposta": "A Beta-Alanina atua como um tamponante no músculo, reduzindo a acidez (ácido lático) durante o exercício, o que atrasa a fadiga e melhora o desempenho em treinos intensos."
+  },
+  {
+    "pergunta": "O que são termogênicos?",
+    "resposta": "Termogênicos são suplementos que aceleram o metabolismo e aumentam a temperatura corporal, favorecendo a queima de calorias e a oxidação de gorduras."
+  },
+  {
+    "pergunta": "Para que serve a Glutamina?",
+    "resposta": "A Glutamina é o aminoácido mais abundante no corpo. Na suplementação, é utilizada principalmente para fortalecer o sistema imunológico e auxiliar na saúde e integridade intestinal."
+  },
+  {
+    "pergunta": "O que é maltodextrina?",
+    "resposta": "É um carboidrato complexo de rápida absorção, frequentemente utilizado durante ou após treinos intensos para repor rapidamente os estoques de glicogênio muscular (energia)."
+  },
+  {
+    "pergunta": "Mulheres podem tomar Creatina e Whey Protein?",
+    "resposta": "Sim, absolutamente. Não há ingredientes específicos para gênero nesses suplementos. Eles fornecem os mesmos benefícios de força, recuperação e ganho de massa muscular para homens e mulheres."
+  },
+  {
+    "pergunta": "O que é Caseína e quando devo tomar?",
+    "resposta": "A caseína é a principal proteína do leite, caracterizada por sua lenta absorção. É ideal para ser consumida antes de dormir, pois fornece um fluxo constante de aminoácidos para os músculos durante o jejum noturno, prevenindo o catabolismo."
+  },
+  {
+    "pergunta": "Qual a diferença entre Dextrose e Maltodextrina?",
+    "resposta": "Ambos são carboidratos energéticos. A dextrose é um carboidrato simples de absorção extremamente rápida, ideal para o pós-treino imediato. A maltodextrina é um carboidrato complexo, mas também de rápida absorção, frequentemente usada durante o treino para manter a energia."
+  },
+  {
+    "pergunta": "L-Carnitina realmente ajuda a emagrecer?",
+    "resposta": "A L-Carnitina atua no transporte de ácidos graxos (gordura) para as mitocôndrias, onde são usados como energia. Embora ajude na oxidação de gorduras, ela só promove emagrecimento real se aliada a um déficit calórico e exercícios físicos."
+  },
+  {
+    "pergunta": "Posso misturar Creatina com Cafeína?",
+    "resposta": "Estudos recentes mostram que doses moderadas de cafeína não anulam os efeitos da creatina, mas altas doses constantes de estimulantes podem interferir na retenção hídrica intracelular da creatina. Usar um pré-treino com cafeína e tomar creatina em outro horário é a estratégia mais segura."
+  },
+  {
+    "pergunta": "Preciso fazer 'ciclo' ou pausar o uso da Creatina?",
+    "resposta": "Não é necessário. A creatina é um suplemento seguro para uso contínuo a longo prazo em pessoas saudáveis. Pausar o uso apenas fará com que os estoques intramusculares voltem ao nível basal, perdendo os benefícios."
+  },
+  {
+    "pergunta": "Ômega 3 ajuda em alguma coisa no esporte?",
+    "resposta": "Sim. O Ômega 3 possui forte ação anti-inflamatória, auxiliando na recuperação muscular, reduzindo a dor tardia pós-treino e melhorando a saúde cardiovascular e as articulações do atleta."
+  },
+  {
+    "pergunta": "Suplementos podem substituir refeições sólidas?",
+    "resposta": "Os suplementos foram criados para 'suplementar' (complementar) a dieta, e não para substituir a base da alimentação. Refeições sólidas oferecem uma matriz de fibras, vitaminas e minerais que os pós e cápsulas não conseguem replicar."
+  },
+  {
+    "pergunta": "O que é a Palatinose?",
+    "resposta": "A Palatinose (isomaltulose) é um carboidrato de baixo índice glicêmico e absorção lenta e gradual. É excelente para fornecer energia de longa duração, muito utilizada por ciclistas, corredores e atletas de endurance."
+  },
+  {
+    "pergunta": "Como o ZMA atua no corpo?",
+    "resposta": "O ZMA é uma combinação de Zinco, Magnésio e Vitamina B6. Ele não é um esteroide, mas ajuda a otimizar a qualidade do sono e a recuperação muscular, podendo auxiliar na manutenção dos níveis naturais de testosterona em indivíduos com deficiência desses minerais."
+  },
+  {
+    "pergunta": "Posso tomar Whey Protein misturado com leite?",
+    "resposta": "Sim. Misturar com leite deixa o sabor melhor e aumenta o aporte de proteínas e cálcio. No entanto, o leite atrasa levemente a absorção do Whey. Se o objetivo é absorção ultrarrápida, o ideal é misturar apenas com água."
+  },
+  {
+    "pergunta": "Qual a dosagem correta de Creatina por dia?",
+    "resposta": "A dosagem padrão e mais recomendada em estudos é de 3 a 5 gramas por dia, todos os dias. Uma abordagem mais personalizada calcula de 0.05 a 0.07 gramas por quilo de peso corporal."
+  }
+]

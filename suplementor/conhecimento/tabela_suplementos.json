@@ -1,0 +1,125 @@
+[
+  {
+    "id": "creatina",
+    "nome": "Creatina Monohidratada",
+    "aliases": ["creatina", "creatina monohidratada"],
+    "beneficios": "Aumenta os estoques de fosfocreatina intramuscular, promovendo ganho de força, potência e volume muscular.",
+    "dosagem_padrao": "3g a 5g por dia (ou 0,05g a 0,07g/kg de peso corporal), todos os dias, inclusive sem treino.",
+    "melhor_horario": "Qualquer horário do dia (efeito crônico por acúmulo). Preferencialmente junto a uma refeição com carboidratos.",
+    "restricoes": "Manter boa hidratação diária. Pessoas com doença renal pré-existente devem consultar um médico antes do uso.",
+    "regras_seguranca": {
+      "renal": "ATENÇÃO: Embora segura para pessoas saudáveis, a creatina exige liberação médica/nefrologista para quem possui doença renal pré-existente.",
+      "gestacao": "ATENÇÃO: O uso durante a gestação ou lactação deve ser avaliado individualmente pelo obstetra."
+    }
+  },
+  {
+    "id": "whey_concentrado",
+    "nome": "Whey Protein Concentrado",
+    "aliases": ["whey", "whey protein", "whey concentrado"],
+    "beneficios": "Proteína de alto valor biológico e rápida absorção, excelente custo-benefício para atingir a meta diária de proteínas e auxiliar na hipertrofia.",
+    "dosagem_padrao": "25g a 30g de pó (cerca de 20g a 24g de proteína por porção), conforme necessidade calórica/proteica.",
+    "melhor_horario": "Pós-treino ou em lanches intermediários para complementar a ingestão proteica do dia.",
+    "restricoes": "Contém lactose e pequenas quantidades de gorduras/carboidratos. Não indicado para alérgicos à proteína do leite (APLV).",
+    "regras_seguranca": {
+      "lactose": "ALERTA DE SEGURANÇA: O Whey Concentrado contém lactose e pode causar desconforto gastrointestinal. Alternativa segura: Whey Protein Isolado (baixíssima lactose) ou proteínas vegetais (ervilha/arroz).",
+      "renal": "ATENÇÃO: Dietas hiperproteicas exigem acompanhamento médico/nutricional em casos de insuficiência renal."
+    }
+  },
+  {
+    "id": "whey_isolado",
+    "nome": "Whey Protein Isolado",
+    "aliases": ["whey isolado", "whey protein isolado", "wpi"],
+    "beneficios": "Proteína filtrada com altíssima concentração proteica (~90%) e quantidades mínimas de carboidratos, gorduras e lactose.",
+    "dosagem_padrao": "25g a 30g de pó por porção, ajustado à meta diária de proteínas.",
+    "melhor_horario": "Pós-treino ou em qualquer refeição com baixa oferta proteica.",
+    "restricoes": "Apesar do baixíssimo teor de lactose, ainda deriva do leite (contraindicado para alérgicos à proteína do leite — APLV).",
+    "regras_seguranca": {
+      "lactose": "COMPATÍVEL COM CAUTELA: Possui teor quase nulo de lactose, sendo geralmente bem tolerado por intolerantes leves. Em intolerância severa ou alergia ao leite (APLV), prefira proteína vegetal.",
+      "renal": "ATENÇÃO: A ingestão total de proteínas deve ser monitorada por médico em pessoas com doença renal."
+    }
+  },
+  {
+    "id": "beta_alanina",
+    "nome": "Beta-Alanina",
+    "aliases": ["beta-alanina", "beta alanina"],
+    "beneficios": "Aumenta os níveis de carnosina muscular, tamponando a acidez (íons H+) e retardando a fadiga em esforços intensos de 1 a 4 minutos.",
+    "dosagem_padrao": "3,2g a 6,4g por dia, preferencialmente fracionada em doses menores de até 2g.",
+    "melhor_horario": "Uso crônico diário (não depende do horário do treino). Dividir doses reduz o formigamento.",
+    "restricoes": "Pode causar parestesia (formigamento na pele), efeito inofensivo e temporário.",
+    "regras_seguranca": {
+      "gestacao": "ATENÇÃO: Faltam estudos de segurança em gestantes e lactantes; evitar sem orientação médica."
+    }
+  },
+  {
+    "id": "termogenico",
+    "nome": "Termogênico / Cafeína",
+    "aliases": ["termogenico", "termogênico", "cafeina", "cafeína", "pre-treino", "pré-treino", "pre treino"],
+    "beneficios": "Estimula o sistema nervoso central, aumenta estado de alerta, foco, disposição nos treinos e leve aumento do gasto calórico.",
+    "dosagem_padrao": "Cafeína: 3mg a 6mg por kg de peso corporal (limite seguro geral de até 400mg/dia para adultos saudáveis).",
+    "melhor_horario": "30 a 60 minutos antes do treino. Evitar consumir até 6 horas antes de dormir.",
+    "restricoes": "Risco de taquicardia, elevação da pressão arterial, ansiedade e insônia em doses altas ou pessoas sensíveis.",
+    "regras_seguranca": {
+      "hipertensao": "CONTRAINDICAÇÃO / ALERTA CRÍTICO: Estimulantes como cafeína e termogênicos podem elevar a pressão arterial e a frequência cardíaca. Contraindicado sem liberação expressa de um cardiologista.",
+      "insonia": "ALERTA DE SEGURANÇA: Estimulantes prejudicam diretamente a arquitetura do sono e agravam quadros de insônia ou ansiedade. Evite o uso ou opte por pré-treinos sem estimulantes (ex: apenas beta-alanina ou palatinose).",
+      "gestacao": "CONTRAINDICAÇÃO / ALERTA CRÍTICO: Termogênicos e altas doses de cafeína são contraindicados na gestação e lactação."
+    }
+  },
+  {
+    "id": "bcaa",
+    "nome": "BCAA (Aminoácidos de Cadeia Ramificada)",
+    "aliases": ["bcaa", "aminoacidos de cadeia ramificada"],
+    "beneficios": "Composto por leucina, isoleucina e valina; pode auxiliar na redução da percepção de fadiga em treinos muito longos.",
+    "dosagem_padrao": "5g a 10g antes ou durante o treino.",
+    "melhor_horario": "Intra-treino ou pré-treino (especialmente em treinos em jejum ou longa duração).",
+    "restricoes": "Geralmente dispensável quando o usuário já atinge a meta diária de proteínas completas (via alimentação ou Whey Protein).",
+    "regras_seguranca": {
+      "gestacao": "ATENÇÃO: Consultar médico ou nutricionista antes de suplementar aminoácidos isolados durante a gestação."
+    }
+  },
+  {
+    "id": "caseina",
+    "nome": "Caseína Micelar",
+    "aliases": ["caseina", "caseína"],
+    "beneficios": "Proteína do leite de digestão lenta, fornecendo liberação gradual de aminoácidos por várias horas.",
+    "dosagem_padrao": "25g a 40g antes de períodos prolongados sem alimentação.",
+    "melhor_horario": "Antes de dormir (ceia), auxiliando na recuperação muscular noturna.",
+    "restricoes": "Derivada do leite; contém lactose e proteínas lácteas.",
+    "regras_seguranca": {
+      "lactose": "ALERTA DE SEGURANÇA: A caseína deriva do leite e pode causar sintomas em intolerantes à lactose ou alérgicos ao leite (APLV)."
+    }
+  },
+  {
+    "id": "glutamina",
+    "nome": "L-Glutamina",
+    "aliases": ["glutamina", "l-glutamina"],
+    "beneficios": "Auxilia na integridade da mucosa intestinal e oferece suporte ao sistema imunológico em atletas sob altíssimo volume de treino.",
+    "dosagem_padrao": "5g por dia.",
+    "melhor_horario": "Em jejum ou pós-treino.",
+    "restricoes": "Não tem evidência robusta para ganho direto de massa muscular em pessoas saudáveis bem alimentadas.",
+    "regras_seguranca": {
+      "renal": "ATENÇÃO: Suplementação isolada de aminoácidos deve ser avaliada por médico em quadros renais ou hepáticos."
+    }
+  },
+  {
+    "id": "omega_3",
+    "nome": "Ômega 3 (EPA e DHA)",
+    "aliases": ["omega 3", "ômega 3", "omega-3", "oleo de peixe"],
+    "beneficios": "Ação anti-inflamatória, suporte cardiovascular, saúde articular e auxílio na recuperação muscular pós-treino.",
+    "dosagem_padrao": "1g a 3g de EPA + DHA somados por dia.",
+    "melhor_horario": "Junto às principais refeições (almoço ou jantar) para melhor absorção.",
+    "restricoes": "Atenção para alérgicos a peixes/frutos do mar e usuários de medicamentos anticoagulantes.",
+    "regras_seguranca": {
+      "hipertensao": "GERALMENTE SEGURO: O Ômega 3 pode inclusive contribuir para a saúde cardiovascular, mas se o usuário toma anticoagulantes, deve consultar o médico."
+    }
+  },
+  {
+    "id": "palatinose",
+    "nome": "Palatinose (Isomaltulose)",
+    "aliases": ["palatinose", "isomaltulose"],
+    "beneficios": "Carboidrato de baixo índice glicêmico que fornece energia gradual e sustentada, sem picos bruscos de insulina.",
+    "dosagem_padrao": "15g a 30g diluídos em água.",
+    "melhor_horario": "30 minutos antes ou durante treinos longos de resistência (corrida, ciclismo, natação).",
+    "restricoes": "Pessoas com diabetes devem monitorar a glicemia e ajustar a dose com nutricionista.",
+    "regras_seguranca": {}
+  }
+]
